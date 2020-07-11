@@ -1,10 +1,11 @@
-### Hi there 👋
+### ⚛️ Javascript Lovers
 
-<!--
-**devalexandre/devalexandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/devalexandre)](https://github.com/devalexandre)
+[![Github Badge](https://img.shields.io/github/followers/devalexandre?label=Follow&style=flat-square&link=mailto:alexandre@indev.net.br)](mailto:alexandre@indev.net.br)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeccamanzi/)](https://www.linkedin.com/in/alexandreindev/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/__Indev)
 
-Here are some ideas to get you started:
-
+️️
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
