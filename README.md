@@ -7,6 +7,8 @@
 [![Medium Badge](https://img.shields.io/static/v1?label=Medium&message=JsLovers&color=purple&logo=medium&&link=https://medium.com/jslovers/)](https://medium.com/jslovers/)
   
   # Welcome to my private madness
+
+  <img src="https://github.com/devalexandre/devalexandre/blob/master/octocat.png?raw=true" width="200" height="200">
   
   Passionate about technology, following the evolution and emergence of new languages ​​and new ways of innovating, thus exploring the unknown.
 
