@@ -1,6 +1,6 @@
 ### Alexandre ⚛️  Javascript Lover
 
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCKrnrV7aWb_yw5KJeXUhj-Q?style=social&link=https://www.youtube.com/c/AlexandreEvangelistadeSouza)
+[![Github Badge](https://img.shields.io/youtube/channel/views/UCKrnrV7aWb_yw5KJeXUhj-Q?style=social)](https://www.youtube.com/c/AlexandreEvangelistadeSouza)
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/devalexandre)](https://github.com/devalexandre)
 [![Github Badge](https://img.shields.io/github/followers/devalexandre?label=Follow&style=flat-square&link=mailto:alexandre@indev.net.br)](mailto:alexandre@indev.net.br)
